@@ -10,7 +10,7 @@ Go to powershell > type Install-Module VirtualDesktop
 And You are All Set.
 
 
-#Note: 
+# Note: 
 This Script currently works for Windows 11 with Windows Terminal as their default terminal application. It Still does work for Windows 10 but does not terminate the terminal App
 A Version compatible with Windows 10 will be available soon.
 

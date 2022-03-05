@@ -6,7 +6,7 @@ There is one module needed for Windows powershell to be able to manipulate Virtu
 Please do check his GitHub Rep, https://github.com/MScholtes/PSVirtualDesktop
 
 ### To install the module:
-Go to powershell > type Install-Module VirtualDesktop 
+Go to powershell > type: Install-Module VirtualDesktop  
 And You are All Set.
 
 
